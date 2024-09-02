@@ -3,6 +3,18 @@ It's delicious! And probably unstable. Fun for the whole family.
 
 ## Changelog
 
+### v1.0.3
+- Version Bumps
+  - UsualScrap -> 1.6.3
+  - DungeonGenerationPlus -> 1.1.2
+  - ScarletDevilMansion -> 1.3.27
+  - CullFactory -> 1.3.5
+  - WesleysInteriors -> 1.3.7
+  - ReservedFlashlightSlot -> 2.0.8
+  - darmuhsTerminalStuff -> 3.5.7
+  - Scopophobia -> 1.1.5
+  - MinecraftInteriors -> 0.9.5
+
 ### v1.0.2
 - Removed MinecraftTaigaMoon by quackandcheese
 - Version Bumps
