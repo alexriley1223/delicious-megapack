@@ -3,7 +3,7 @@ It's delicious! And probably unstable. Fun for the whole family.
 
 ## Changelog
 
-### v1.0.3
+### v1.0.4
 - Added default configs
 - Version Bumps
   - BetterStamina -> 1.5.1
