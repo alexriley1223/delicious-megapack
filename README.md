@@ -3,6 +3,11 @@ It's delicious! And probably unstable. Fun for the whole family.
 
 ## Changelog
 
+### v1.1.0
+- Added moons
+- Added performance mods
+- Added misc scrap and item mods
+
 ### v1.0.4
 - Added default configs
 - Version Bumps
