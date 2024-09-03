@@ -3,6 +3,9 @@ It's delicious! And probably unstable. Fun for the whole family.
 
 ## Changelog
 
+### v1.1.2
+- Version bump
+
 ### v1.1.1
 - Removed
   - Imperium
