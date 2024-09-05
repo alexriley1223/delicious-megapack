@@ -3,6 +3,14 @@ It's delicious! And probably unstable. Fun for the whole family.
 
 ## Changelog
 
+### v1.1.3
+- Removed some moons
+- Reduced spawn weights for PoolRooms and MentalHospital
+- Version bumps
+  - WesleysInteriors -> 1.3.8
+  - darmuhsTerminalStuff -> 3.5.9
+  - CastleGrounds -> 3.2.1
+
 ### v1.1.2
 - Version bump
 
