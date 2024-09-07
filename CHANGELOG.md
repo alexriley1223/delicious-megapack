@@ -3,6 +3,12 @@ It's delicious! And probably unstable. Fun for the whole family.
 
 ## Changelog
 
+### v1.1.4
+- Version bumps
+- Added PalazzoPals_Cosmetic_Pack
+- Added Lethal Level Loader default config
+- Removed moons we didn't like >:(
+
 ### v1.1.3
 - Removed some moons
 - Reduced spawn weights for PoolRooms and MentalHospital

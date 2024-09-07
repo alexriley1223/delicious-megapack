@@ -1,2 +1,2 @@
 # DELICIOUS MEGAPACK
-[v62+] Megapack
+[v64+] Megapack
