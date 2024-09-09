@@ -3,6 +3,11 @@ It's delicious! And probably unstable. Fun for the whole family.
 
 ## Changelog
 
+## v1.1.5
+- Version bumps
+- Config updates
+- New interiors
+
 ### v1.1.4
 - Version bumps
 - Added PalazzoPals_Cosmetic_Pack
