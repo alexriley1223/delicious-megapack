@@ -1,7 +1,8 @@
-# CHANGELOG
-It's delicious! And probably unstable. Fun for the whole family.
+# Changelog
 
-## Changelog
+## v1.1.6
+- Version bumps
+- Updated README with notes about LLL config
 
 ## v1.1.5
 - Version bumps
