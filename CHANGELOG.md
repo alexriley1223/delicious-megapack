@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.1.7
+- Version bumps
+
 ## v1.1.6
 - Version bumps
 - Updated README with notes about LLL config
