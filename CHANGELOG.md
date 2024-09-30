@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.2.1
+- Random new mods
+- Version bumps
+- Removed some moons
+
 ## v1.2.0
 - Removed some moons
 - New mods
