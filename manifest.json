@@ -1,6 +1,6 @@
 {
     "name": "DeliciousMegapack",
-    "version_number": "1.3.1",
+    "version_number": "1.4.0",
     "website_url": "",
     "description": "[v64+] Megapack",
     "dependencies": [
@@ -30,7 +30,6 @@
         "CoNcept_Temple_Modding-Scooby_Doo_Crew_Suits-1.0.4",
         "Norman-GlowStickSuits-1.0.4",
         "Team_Waluigi-WaluigiSuit-0.0.3",
-        "jombi-SuitsAndCosmetics-1.0.8",
         "happyfrosty-FrostySuits2-1.0.9",
         "happyfrosty-FrostySuits3-1.1.1",
         "Ozone-Runtime_Netcode_Patcher-0.2.5",
@@ -38,7 +37,6 @@
         "Taker-CannabisCompany-1.0.3",
         "Electric131-IsThisTheWayICame-1.1.4",
         "Badham_Mods-CirnoFumoScrap-2.0.1",
-        "Drakorle-MoreItems-1.0.2",
         "mfwmt-SanrioSuits-1.3.1",
         "Norman-Lightsabers-1.1.2",
         "Evaisa-FixPluginTypesSerialization-1.1.1",
@@ -76,7 +74,6 @@
         "AinaVT-LethalConfig-1.4.3",
         "femboytv-LethalPosters-1.2.3",
         "Hamunii-AutoHookGenPatcher-1.0.4",
-        "xAstroBoy-ThrowEverythingHOTFIXED-0.5.0",
         "HGG-JigglePhysicsPlugin-1.1.21",
         "skidz-PoolRooms-0.1.22",
         "Hardy-LCMaxSoundsFix-1.2.0",
@@ -227,7 +224,6 @@
         "Piggy-Piggys_Variety_Mod-1.3.14",
         "XuXiaolan-PjonkGoose-1.4.1",
         "Zigzag-PremiumScraps-1.8.4",
-        "Lega-CursedScraps-2.0.4",
         "Hackattack242-Lethal_Weight_Fix-1.1.1",
         "Wexop-CountryRoadCreature-1.0.7",
         "LethalResonance-LETHALRESONANCE-4.7.4",
@@ -247,12 +243,10 @@
     	"Sconeys-Haunted-1.0.3",
     	"TwinDimensionalProductions-CoilHeadStare-1.0.9",
     	"FutureSavior-Hold_Scan_Button-1.1.2",
-   	"ShaosilGaming-GeneralImprovements-1.4.4",
+        "ShaosilGaming-GeneralImprovements-1.4.4",
     	"taffyko-BetterSprayPaint-2.0.9",
-    	"Justice69-ImmersiveScraps-1.2.1",
     	"XuXiaolan-TheGiantSpecimens-2.2.1",
     	"MegaPiggy-EnumUtils-1.0.5",
-    	"Caigan-Tokucade_Scrap-1.6.0",
-    	"Dafini-Dafis_Mega_Scrap_Pack_Emporium-2.1.0"
+    	"Caigan-Tokucade_Scrap-1.6.0"
     ]
 }
