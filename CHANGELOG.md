@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.4.1
+- Version bumps
+- New mods
+
 ## v1.4.0
 - Pruning broken mods
 
