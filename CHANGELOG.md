@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.3.0
+- Removed traces of LethalExpansion
+- Version bumps
+- New mods
+
 ## v1.2.1
 - Random new mods
 - Version bumps
