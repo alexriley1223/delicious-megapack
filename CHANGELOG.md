@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.4.0
+- Pruning broken mods
+
 ## v1.3.1
 - The cosmetics purge
 - Version bump for EnumUtils
