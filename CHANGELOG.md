@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.1
+- The cosmetics purge
+- Version bump for EnumUtils
+
 ## v1.3.0
 - Removed traces of LethalExpansion
 - Version bumps
