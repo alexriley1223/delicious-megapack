@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.4.3
+- Version bumps
+
 ## v1.4.2
 - Version bumps
 
