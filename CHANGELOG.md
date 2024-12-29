@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.5.1
+- Version bumps
+
 ## v1.5.0
 - Version bumps for v65 - v69
 - New interiors; monsters; scrap
