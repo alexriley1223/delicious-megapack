@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.5.3
+- Version bumps
+
 ## v1.5.2
 - Version bumps
 
