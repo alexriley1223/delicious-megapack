@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.6.0
+- Version bumps
+- Brought back cosmetics
+- More misc enemy and interior mods
+
 ## v1.5.5
 - Version bumps
 
